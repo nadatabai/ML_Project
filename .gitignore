@@ -1,0 +1,23 @@
+# Virtual Environment
+venv/
+.env/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Model Files
+*.pkl
+*.joblib
+*.h5
+
+# IDE
+.vscode/
+.idea/
+
+# System
+.DS_Store
